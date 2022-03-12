@@ -60,7 +60,7 @@ partd==1.1.0
 pexpect==4.8.0
 phik==0.10.0
 pickleshare==0.7.5
-Pillow==8.3.2
+Pillow==9.0.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 psutil==5.7.0
