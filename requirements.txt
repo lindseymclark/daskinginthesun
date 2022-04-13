@@ -10,7 +10,7 @@ cloudpickle==1.4.1
 cmake==3.16.3
 confuse==1.1.0
 cycler==0.10.0
-dask==2.19.0
+dask==2021.10.0
 dask-glm==0.2.0
 dask-ml==1.5.0
 decorator==4.4.2
