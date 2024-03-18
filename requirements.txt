@@ -1,5 +1,5 @@
 appnope==0.1.0
-astropy==4.0.1.post1
+astropy==5.3.3
 attrs==19.3.0
 backcall==0.1.0
 bleach==3.3.0
